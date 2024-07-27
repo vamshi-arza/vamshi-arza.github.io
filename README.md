@@ -1,4 +1,4 @@
-# Data Engineer
+# Data Science Portfolio
 
 ## Education
 
@@ -8,12 +8,13 @@
 
 
 
-## Technology Stack
+## Tech Stack
 
 - **Programming Languages** : Python (Pandas, Numpy, Scikit-Learn, Scipy, Keras, Matplotlib), R (Dplyr, Tidyr, Caret, Ggplot2), SQL, Java, Scala
 - **Cloud Platforms** : AWS, Azure, Snowflake
 - **Big data Technologies** : Hadoop, Spark, HDFS, Hive, HBase, Pig, Kafka, Apache Airflow, Azure Data Lake, Azure Databricks, MangoDB, MySQL, Cassandra, MapReduce, Amazon S3, AWS Glue, PostgreSQL, AWS Athena.
-- **Machine Learning** : TensorFlow, Scikit-learn, Pandas, Keras, PyTorch, PySpark
+- **Methodologies**: Machine Learning, Deep Learning, Time Series Analysis, Natural Language Processing, Statistics, Big Data Analytics
+- **Machine Learning Tools** : TensorFlow, Scikit-learn, Pandas, Keras, PyTorch, PySpark
 - **Other Tools** : Tableau, Power BI, GitHub, Git, PowerShell, Linux, Bash, Jupyter Notebooks, PyCharm, Microsoft Access, Excel, Jenkins, Amazon Quicksight.
 
 ## Projects
@@ -50,12 +51,12 @@
 
 ## Certifications
 
-- [Google Data Analytics Professional Certificate](https://github.com/vamshi-arza/vamshi-arza.github.io/blob/main/certificates/Google%20Data%20Analytics%20PRO%20Cert.pdf)
+- [Google Data Analytics Professional Certificate by Google](https://github.com/vamshi-arza/vamshi-arza.github.io/blob/main/certificates/Google%20Data%20Analytics%20PRO%20Cert.pdf)
 - [Learning Excel : Data Analysis by Linkedin](https://github.com/vamshi-arza/vamshi-arza.github.io/blob/main/certificates/CertificateOfCompletion_Learning%20Excel%20Data%20Analysis.pdf)
 - [Excel Statistics Essential Training by Linkedin](https://github.com/vamshi-arza/vamshi-arza.github.io/blob/main/certificates/CertificateOfCompletion_Excel%20Statistics%20Essential%20Training%201.pdf)
 - [Non-Technical Skills of Effective Data Scientists by Linkedin](https://github.com/vamshi-arza/vamshi-arza.github.io/blob/main/certificates/CertificateOfCompletion_The%20NonTechnical%20Skills%20of%20Effective%20Data%20Scientists%20(2).pdf)
 - [Python Data Structures by University of Michigan](https://github.com/vamshi-arza/vamshi-arza.github.io/blob/main/certificates/Coursera%20python%20data%20structures.pdf)
-- [Oracle Certified Associate Java SE8 Programmer](https://github.com/vamshi-arza/vamshi-arza.github.io/blob/main/certificates/eCertificate%20(2).pdf)
+- [Oracle Certified Associate Java SE8 Programmer by Oracle](https://github.com/vamshi-arza/vamshi-arza.github.io/blob/main/certificates/eCertificate%20(2).pdf)
 
 
   
